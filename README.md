@@ -33,8 +33,7 @@ Scikit-learn Documentation
 Housing Dataset Source
 
 
-##Customer Churn Analysis
-This repository contains code and analysis performed on a customer churn dataset to understand customer behavior and identify clusters based on different variables affecting churn. Customer churn refers to the percentage of customers that cease using a company's product or service over a specific period.
+## Customer Churn Cluster Analysis
 Overview
 Customer churn refers to the percentage of customers who cease using a company's product or service within a specified time frame. This analysis focuses on understanding and mitigating customer churn for better business retention.
 
@@ -87,4 +86,3 @@ Author: Srinivas K
 Contact: shrinivashshrii@gmail.com
 linkedin:https://www.linkedin.com/in/srinivas-k-45h/
 Github:https://github.com/dashboard
-
