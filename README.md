@@ -77,7 +77,7 @@ Conclusion
 Sum up the key takeaways and the significance of addressing customer churn.
 Emphasize the importance of continuous monitoring and adaptation to retain customers effectively.
 
-References
+References:
 Kaggle
 Cluster Analysis 
 
